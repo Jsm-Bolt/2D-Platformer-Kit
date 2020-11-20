@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: DetectionArea
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"specifyFallback":false,"kind":"Object","defaultValues":{"name":{"$content":"DrawGizmoWireSphereRadius","$type":"System.String"},"object":null},"position":{"x":-894.0,"y":-173.0},"guid":"63c2d794-3ec8-4450-811c-00df9d9a6b0b","$version":"A","$type":"Bolt.GetVariable","$id":"9"},{"chainable":false,"member":{"name":"radius","parameterTypes":null,"targetType":"UnityEngine.CircleCollider2D","targetTypeName":"UnityEngine.CircleCollider2D","$version":"A"},"defaultValues":{"target":null,"input":{"$content":0.0,"$type":"System.Single"}},"position":{"x":-530.0,"y":-264.0},"guid":"a076deb8-9b10-487a-b5e5-ab626f911e6e","$version":"A","$type":"Bolt.SetMember","$id":"11"},{"coroutine":false,"defaultValues":{},"position":{"x":-734.0,"y":-265.0},"guid":"2db5b42e-241a-4b19-8f42-c4fc6ddb5034","$version":"A","$type":"Bolt.Start","$id":"14"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-891.0,"y":22.0},"guid":"36a21392-a1b4-4e27-9703-aca0e1325502","$version":"A","$type":"Bolt.OnTriggerEnter2D","$id":"16"},{"defaultValues":{},"position":{"x":-323.0,"y":22.0},"guid":"f79f4ac5-c728-4a5d-9815-03e98fc67c14","$version":"A","$type":"Bolt.Branch","$id":"18"},{"chainable":false,"member":{"name":"CompareTag","parameterTypes":["System.String"],"targetType":"UnityEngine.GameObject","targetTypeName":"UnityEngine.GameObject","$version":"A"},"defaultValues":{"target":null,"%tag":{"$content":"Critter_Rat","$type":"System.String"}},"position":{"x":-601.0,"y":108.0},"guid":"a6016fee-fdb6-44ad-85ef-b1e28f2a0ca7","$version":"A","$type":"Bolt.InvokeMember","$id":"20"},{"sourceUnit":{"$ref":"14"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"assign","guid":"94382e1c-fbb7-4f5a-92fa-f04a098deefc","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"trigger","destinationUnit":{"$ref":"18"},"destinationKey":"enter","guid":"c7fa0367-9fdd-48b2-b326-7f02d233fc92","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"value","destinationUnit":{"$ref":"11"},"destinationKey":"input","guid":"48daf6ce-4ef8-481e-88d8-b1a8ad955499","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"collider","destinationUnit":{"$ref":"20"},"destinationKey":"target","guid":"00fe4842-34a6-4e22-a97e-0f9324204243","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"20"},"sourceKey":"result","destinationUnit":{"$ref":"18"},"destinationKey":"condition","guid":"a9926ba1-954e-4ce1-80df-9457941a3e9b","$type":"Bolt.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
