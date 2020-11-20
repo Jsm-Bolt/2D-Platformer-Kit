@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: WallCheckRightSide
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[{"key":"output","label":null,"summary":null,"hideLabel":false}],"valueInputDefinitions":[],"valueOutputDefinitions":[{"_type":"System.Boolean","key":"outputBool","label":null,"summary":null,"hideLabel":false}],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"type":"UnityEngine.LayerMask","value":{"value":256,"$type":"UnityEngine.LayerMask"},"defaultValues":{},"position":{"x":-338.0,"y":-47.0},"guid":"7b4667ec-57eb-4a7d-a872-c8098570ac40","$version":"A","$type":"Bolt.Literal","$id":"11"},{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{"offset":{"x":0.15,"y":0.0,"$type":"UnityEngine.Vector2"},"boxColor":{"r":0.3638814,"g":0.6295155,"b":1.0,"a":1.0,"$type":"UnityEngine.Color"},"boxSize":{"x":0.1,"y":0.9,"$type":"UnityEngine.Vector2"},"direction":{"x":0.5,"y":0.0,"$type":"UnityEngine.Vector2"},"distance":{"$content":0.5,"$type":"System.Single"}},"position":{"x":-168.0,"y":-143.0},"guid":"014f7e39-5432-4756-ac06-0ba1cb8e3ea2","$version":"A","$type":"Bolt.SuperUnit","$id":"13"},{"defaultValues":{},"position":{"x":185.0,"y":-144.0},"guid":"c96cc01c-89f4-415d-966d-bb6e7b3fc724","$version":"A","$type":"Bolt.GraphOutput","$id":"16"},{"sourceUnit":{"$ref":"13"},"sourceKey":"output","destinationUnit":{"$ref":"16"},"destinationKey":"output","guid":"6c8c66ed-b01a-431b-b366-45e7bdbff54b","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"11"},"sourceKey":"output","destinationUnit":{"$ref":"13"},"destinationKey":"layer","guid":"d98bb6f1-1f3d-4caa-9d41-897731e68293","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"checkController","destinationUnit":{"$ref":"16"},"destinationKey":"outputBool","guid":"445ed40f-fc85-4382-ada7-26cfa6e2376e","$type":"Bolt.ValueConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 658262f92b28ae942959a2f1d174456b, type: 2}

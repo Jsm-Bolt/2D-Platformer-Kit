@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: LadderClimb
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-259.356,"y":-74.92286},"zoom":1.0,"elements":[{"kind":"Object","defaultValues":{"name":{"$content":"CanClimb","$type":"System.String"},"object":null},"position":{"x":-391.0,"y":-177.0},"guid":"ce1651f1-d87b-4624-b480-bc3adedc8aa1","$version":"A","$type":"Bolt.SetVariable","$id":"9"},{"type":"System.Boolean","value":{"$content":true,"$type":"System.Boolean"},"defaultValues":{},"position":{"x":-566.0,"y":49.0},"guid":"80e02ce1-9640-4abd-aebc-e979625f0e04","$version":"A","$type":"Bolt.Literal","$id":"11"},{"defaultValues":{},"position":{"x":-607.0,"y":-305.0},"guid":"f4223664-bd1f-4835-8e10-10e09021f083","$version":"A","$type":"Bolt.Branch"},{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{"tag":{"$content":"Player","$type":"System.String"}},"position":{"x":-1042.0,"y":-232.0},"guid":"093d90b4-8c9c-4c10-943a-f5066149ce1a","$version":"A","$type":"Bolt.SuperUnit","$id":"15"},{"sourceUnit":{"$ref":"15"},"sourceKey":"target","destinationUnit":{"$ref":"9"},"destinationKey":"assign","guid":"2e562f39-a208-480b-b5ff-5bfd09f2e41d","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"11"},"sourceKey":"output","destinationUnit":{"$ref":"9"},"destinationKey":"input","guid":"c6165f4e-00a4-463b-87d3-3513f78c5eb0","$type":"Bolt.ValueConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 886fdc60e0d075c4181f95cf7d9fa85d, type: 2}

@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: c9fc9cdb8ebeb9b4c858f3e9b656a6bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5287455479374835241
+    second: TilePallet_0
+  - first:
+      213: 1360124938725565181
+    second: TilePallet_1
+  - first:
+      213: 2087310739473051349
+    second: TilePallet_2
+  - first:
+      213: 8221243305829524638
+    second: TilePallet_3
+  - first:
+      213: 7975065173143958618
+    second: TilePallet_14
+  - first:
+      213: -8737119281603514915
+    second: TilePallet_14
+  - first:
+      213: -4099360149433703941
+    second: TilePallet_14
+  - first:
+      213: 5955121677452736542
+    second: TilePallet_14
+  - first:
+      213: -8268693295983439700
+    second: TilePallet_14
+  - first:
+      213: -7458028694486867677
+    second: TilePallet_4
+  - first:
+      213: -2657611687484645448
+    second: TilePallet_14
+  - first:
+      213: -4120204120430246361
+    second: TilePallet_4
+  - first:
+      213: 4949433094468282534
+    second: TilePallet_14
+  - first:
+      213: 9093610561775540607
+    second: TilePallet_4
+  - first:
+      213: -2758170401190067314
+    second: TilePallet_9
+  - first:
+      213: 5806771420673485283
+    second: TilePallet_14
+  - first:
+      213: -288882746325562312
+    second: TilePallet_4
+  - first:
+      213: -7871470506421228224
+    second: TilePallet_9
+  - first:
+      213: 5939508693599399808
+    second: TilePallet_14
+  - first:
+      213: -2167867409161718409
+    second: TilePallet_19
+  - first:
+      213: -5407086159521018216
+    second: TilePallet_20
+  - first:
+      213: -7467987534172114878
+    second: TilePallet_21
+  - first:
+      213: 3274323854402648375
+    second: TilePallet_22
+  - first:
+      213: -3172624708300857893
+    second: TilePallet_23
+  - first:
+      213: -8771043355684289425
+    second: TilePallet_24
+  - first:
+      213: -7624965637902380866
+    second: TilePallet_25
+  - first:
+      213: -3927495380227384105
+    second: TilePallet_26
+  - first:
+      213: 6792945284751044202
+    second: TilePallet_27
+  - first:
+      213: 1858945217387809323
+    second: TilePallet_28
+  - first:
+      213: 2248569627863585998
+    second: TilePallet_29
+  - first:
+      213: -7872270390791370789
+    second: TilePallet_30
+  - first:
+      213: 108290449285308086
+    second: TilePallet_31
+  - first:
+      213: -7309623388928241788
+    second: TilePallet_32
+  - first:
+      213: -6789818725416912333
+    second: TilePallet_33
+  - first:
+      213: -4079175748385807256
+    second: TilePallet_34
+  - first:
+      213: 1882812089740349473
+    second: TilePallet_35
+  - first:
+      213: 3206436927527692376
+    second: TilePallet_36
+  - first:
+      213: 5995238517094245949
+    second: TilePallet_37
+  - first:
+      213: 4315852695159553670
+    second: TilePallet_38
+  - first:
+      213: 6218937183305806263
+    second: TilePallet_39
+  - first:
+      213: -8515404560466002840
+    second: TilePallet_40
+  - first:
+      213: -7010422848123401990
+    second: TilePallet_41
+  - first:
+      213: -5610996060528349780
+    second: TilePallet_42
+  - first:
+      213: 1265623082096726346
+    second: TilePallet_43
+  - first:
+      213: -153921342049530503
+    second: TilePallet_44
+  - first:
+      213: 1821850330726344101
+    second: TilePallet_45
+  - first:
+      213: -2112477407855252609
+    second: TilePallet_46
+  - first:
+      213: 5625755811755011036
+    second: TilePallet_47
+  - first:
+      213: 4568074558663471957
+    second: TilePallet_48
+  - first:
+      213: 3223645317003463682
+    second: TilePallet_49
+  - first:
+      213: -8464793019806229020
+    second: TilePallet_50
+  - first:
+      213: 7390645211540900752
+    second: TilePallet_51
+  - first:
+      213: -2445310361443678399
+    second: TilePallet_52
+  - first:
+      213: -2055604538597974506
+    second: TilePallet_53
+  - first:
+      213: -3768537358540503282
+    second: TilePallet_54
+  - first:
+      213: -3298700226560332703
+    second: TilePallet_55
+  - first:
+      213: 4871261331991239548
+    second: TilePallet_56
+  - first:
+      213: 4069369530344118565
+    second: TilePallet_57
+  - first:
+      213: 7504018319519489568
+    second: TilePallet_58
+  - first:
+      213: 475808945611075101
+    second: TilePallet_59
+  - first:
+      213: -5010650556329589692
+    second: TilePallet_60
+  - first:
+      213: -6038341190212830475
+    second: TilePallet_61
+  - first:
+      213: 754343682747359731
+    second: TilePallet_62
+  - first:
+      213: -4992589830395462999
+    second: TilePallet_63
+  - first:
+      213: -6957055806542379591
+    second: TilePallet_64
+  - first:
+      213: -2009343426854904417
+    second: TilePallet_65
+  - first:
+      213: 8569492839423686530
+    second: TilePallet_66
+  - first:
+      213: 7518384152516549673
+    second: TilePallet_67
+  - first:
+      213: -8359162377640257458
+    second: TilePallet_68
+  - first:
+      213: 4093810083371814976
+    second: TilePallet_69
+  - first:
+      213: -7603049418826746069
+    second: TilePallet_70
+  - first:
+      213: 4205987057252004865
+    second: TilePallet_71
+  - first:
+      213: 6609484226659242166
+    second: TilePallet_72
+  - first:
+      213: 3516111613069223959
+    second: TilePallet_73
+  - first:
+      213: 8160094617415243707
+    second: TilePallet_74
+  - first:
+      213: 7918092887357784313
+    second: TilePallet_75
+  - first:
+      213: 5723779393242328010
+    second: TilePallet_76
+  - first:
+      213: -5165633477387155732
+    second: TilePallet_77
+  - first:
+      213: 1144755935943362787
+    second: TilePallet_78
+  - first:
+      213: 5290595888038239435
+    second: TilePallet_79
+  - first:
+      213: -5980608205555198274
+    second: TilePallet_80
+  - first:
+      213: -5522324995630511386
+    second: TilePallet_81
+  - first:
+      213: 645058786874521908
+    second: TilePallet_82
+  - first:
+      213: 5040700499487091806
+    second: TilePallet_83
+  - first:
+      213: 6695195058743591915
+    second: TilePallet_84
+  - first:
+      213: 947202629038173258
+    second: TilePallet_85
+  - first:
+      213: 8818762236040435561
+    second: TilePallet_86
+  - first:
+      213: 7726049539674225136
+    second: TilePallet_87
+  - first:
+      213: 8468418199102277281
+    second: TilePallet_88
+  - first:
+      213: -1082480069660703572
+    second: TilePallet_89
+  - first:
+      213: -6908583286731027848
+    second: TilePallet_90
+  - first:
+      213: 328449211008660651
+    second: TilePallet_91
+  - first:
+      213: 1141605285749143736
+    second: TilePallet_92
+  - first:
+      213: -5690568266650011643
+    second: TilePallet_93
+  - first:
+      213: 3820856511591088681
+    second: TilePallet_94
+  - first:
+      213: -2974156851589758347
+    second: TilePallet_95
+  - first:
+      213: -2032909044878725655
+    second: TilePallet_96
+  - first:
+      213: -6127370804788247117
+    second: TilePallet_97
+  - first:
+      213: 6101428985301378215
+    second: TilePallet_98
+  - first:
+      213: 3315179549205738931
+    second: TilePallet_99
+  - first:
+      213: -3452216270391558010
+    second: TilePallet_100
+  - first:
+      213: -6817672873145681333
+    second: TilePallet_101
+  - first:
+      213: 7930099382811965430
+    second: TilePallet_102
+  - first:
+      213: 3654437163355652471
+    second: TilePallet_103
+  - first:
+      213: 231381011462551037
+    second: TilePallet_104
+  - first:
+      213: 5235354041786117725
+    second: TilePallet_105
+  - first:
+      213: -2934163485012178560
+    second: TilePallet_106
+  - first:
+      213: 8714944881061599789
+    second: TilePallet_107
+  - first:
+      213: -4283481030675004708
+    second: TilePallet_108
+  - first:
+      213: -7697596733660556651
+    second: TilePallet_109
+  - first:
+      213: -1752688365043553456
+    second: TilePallet_110
+  - first:
+      213: 2081244201685461887
+    second: TilePallet_111
+  - first:
+      213: 1777660809978582227
+    second: TilePallet_112
+  - first:
+      213: 6202998536737079488
+    second: TilePallet_113
+  - first:
+      213: -2925470626809456280
+    second: TilePallet_114
+  - first:
+      213: -3598194255820370359
+    second: TilePallet_115
+  - first:
+      213: 5216454208236078989
+    second: TilePallet_116
+  - first:
+      213: 7385500093195341818
+    second: TilePallet_117
+  - first:
+      213: 1608395090211404490
+    second: TilePallet_118
+  - first:
+      213: -972181640339056318
+    second: TilePallet_119
+  - first:
+      213: 6093707662176918738
+    second: TilePallet_120
+  - first:
+      213: 4252627150901044628
+    second: TilePallet_121
+  - first:
+      213: -421324114299782259
+    second: TilePallet_122
+  - first:
+      213: -6602465032152526017
+    second: TilePallet_123
+  - first:
+      213: 1096982505591025977
+    second: TilePallet_124
+  - first:
+      213: -8485829814300600009
+    second: TilePallet_125
+  - first:
+      213: 4440916272906712235
+    second: TilePallet_126
+  - first:
+      213: -5104445725248669341
+    second: TilePallet_127
+  - first:
+      213: 1645544698260037480
+    second: TilePallet_128
+  - first:
+      213: -7333481250986811770
+    second: TilePallet_129
+  - first:
+      213: 9170010139257092046
+    second: TilePallet_130
+  - first:
+      213: 2960305655083483504
+    second: TilePallet_131
+  - first:
+      213: 227603810974526258
+    second: TilePallet_132
+  - first:
+      213: -7894220649916425343
+    second: TilePallet_133
+  - first:
+      213: 2963169662703100506
+    second: TilePallet_134
+  - first:
+      213: -7566982782307094936
+    second: TilePallet_135
+  - first:
+      213: 3361670535912292128
+    second: TilePallet_136
+  - first:
+      213: -1037800085912156910
+    second: TilePallet_137
+  - first:
+      213: 7462729184031194840
+    second: TilePallet_138
+  - first:
+      213: -4364603032809065281
+    second: TilePallet_139
+  - first:
+      213: -689740765432629921
+    second: TilePallet_140
+  - first:
+      213: 6622945049473958236
+    second: TilePallet_141
+  - first:
+      213: -7857334726858983233
+    second: TilePallet_142
+  - first:
+      213: 5213326140201119811
+    second: TilePallet_143
+  - first:
+      213: 3526860783430067063
+    second: TilePallet_144
+  - first:
+      213: 8931253285086751543
+    second: TilePallet_145
+  - first:
+      213: -515123417897958850
+    second: TilePallet_146
+  - first:
+      213: 1375762075182293404
+    second: TilePallet_147
+  - first:
+      213: 3477023783279992770
+    second: TilePallet_148
+  - first:
+      213: -1435658930088126583
+    second: TilePallet_149
+  - first:
+      213: 7384526807937168977
+    second: TilePallet_150
+  - first:
+      213: -4882549830064644340
+    second: TilePallet_151
+  - first:
+      213: 8020600543391250801
+    second: TilePallet_152
+  - first:
+      213: -2653947811427205101
+    second: TilePallet_153
+  - first:
+      213: 5092879673779412921
+    second: TilePallet_154
+  - first:
+      213: -7951617896633008967
+    second: TilePallet_155
+  - first:
+      213: 8607966360700067882
+    second: TilePallet_156
+  - first:
+      213: -8180089031609507957
+    second: TilePallet_157
+  - first:
+      213: -3456627608073147275
+    second: TilePallet_158
+  - first:
+      213: -3989561151774762062
+    second: TilePallet_159
+  - first:
+      213: -2424933045031223666
+    second: TilePallet_160
+  - first:
+      213: 5015956326454923733
+    second: TilePallet_161
+  - first:
+      213: -7467542378253722989
+    second: TilePallet_162
+  - first:
+      213: -3093267027900038508
+    second: TilePallet_163
+  - first:
+      213: 8788349927696174968
+    second: TilePallet_164
+  - first:
+      213: 4758489275431361656
+    second: TilePallet_165
+  - first:
+      213: 3790323277515881426
+    second: TilePallet_166
+  - first:
+      213: 7123349307632302076
+    second: TilePallet_167
+  - first:
+      213: 7808995623688141500
+    second: TilePallet_168
+  - first:
+      213: -8942608084192423478
+    second: TilePallet_169
+  - first:
+      213: 9123205876077605819
+    second: TilePallet_170
+  - first:
+      213: 8306106992296579490
+    second: TilePallet_171
+  - first:
+      213: 4517620731444793884
+    second: TilePallet_172
+  - first:
+      213: -4038149084185679736
+    second: TilePallet_173
+  - first:
+      213: -3392690867685159103
+    second: TilePallet_174
+  - first:
+      213: -7356594201674731114
+    second: TilePallet_175
+  - first:
+      213: -725865574400451208
+    second: TilePallet_176
+  - first:
+      213: 243572429276840773
+    second: TilePallet_177
+  - first:
+      213: 2713550759406537259
+    second: TilePallet_178
+  - first:
+      213: 5226059898819682709
+    second: TilePallet_179
+  - first:
+      213: -2921525418278484039
+    second: TilePallet_180
+  - first:
+      213: -7734872134000495964
+    second: TilePallet_181
+  - first:
+      213: -2394363599082788779
+    second: TilePallet_182
+  - first:
+      213: -5175854063614800271
+    second: TilePallet_183
+  - first:
+      213: -5670229418487054966
+    second: TilePallet_184
+  - first:
+      213: 1913580183478512363
+    second: TilePallet_185
+  - first:
+      213: 6856176400164945086
+    second: TilePallet_186
+  - first:
+      213: -7153883529391448579
+    second: TilePallet_187
+  - first:
+      213: 8613022054166140994
+    second: TilePallet_188
+  - first:
+      213: -1258960460444921697
+    second: TilePallet_189
+  - first:
+      213: 5847691703086839787
+    second: TilePallet_190
+  - first:
+      213: -3348505780189155687
+    second: TilePallet_191
+  - first:
+      213: 2963714955599779923
+    second: TilePallet_192
+  - first:
+      213: -6622286480002554030
+    second: TilePallet_193
+  - first:
+      213: -5169853011170633642
+    second: TilePallet_194
+  - first:
+      213: -5469026485437107719
+    second: TilePallet_195
+  - first:
+      213: 3096540108283149998
+    second: TilePallet_196
+  - first:
+      213: 702573506603058099
+    second: TilePallet_197
+  - first:
+      213: 3348868148106680297
+    second: TilePallet_198
+  - first:
+      213: 5777857206321679052
+    second: TilePallet_199
+  - first:
+      213: -1800713033913714452
+    second: TilePallet_200
+  - first:
+      213: -8688449350351907581
+    second: TilePallet_201
+  - first:
+      213: 5952980544852274983
+    second: TilePallet_202
+  - first:
+      213: 3826930689660788454
+    second: TilePallet_203
+  - first:
+      213: -3239785144203033791
+    second: TilePallet_204
+  - first:
+      213: 5852902561115755941
+    second: TilePallet_205
+  - first:
+      213: -5546607626094440265
+    second: TilePallet_206
+  - first:
+      213: 8302820404165792614
+    second: TilePallet_207
+  - first:
+      213: 4713348449121647712
+    second: TilePallet_208
+  - first:
+      213: 7541869980039053219
+    second: TilePallet_209
+  - first:
+      213: -638061738864466347
+    second: TilePallet_210
+  - first:
+      213: 3919603257966194824
+    second: TilePallet_211
+  - first:
+      213: -7956366385184487800
+    second: TilePallet_212
+  - first:
+      213: -2488367990418850493
+    second: TilePallet_213
+  - first:
+      213: -8885747028653112495
+    second: TilePallet_214
+  - first:
+      213: 4466354472558305910
+    second: TilePallet_215
+  - first:
+      213: -7670006711155370120
+    second: TilePallet_216
+  - first:
+      213: -5555686648153446511
+    second: TilePallet_217
+  - first:
+      213: 1119185592790011895
+    second: TilePallet_218
+  - first:
+      213: 3918103450582028193
+    second: TilePallet_219
+  - first:
+      213: -3243283494302428709
+    second: TilePallet_220
+  - first:
+      213: -4105550365766710685
+    second: TilePallet_221
+  - first:
+      213: -7994785991447352901
+    second: TilePallet_222
+  - first:
+      213: -4984887586742399453
+    second: TilePallet_223
+  - first:
+      213: 1217910344741368773
+    second: TilePallet_224
+  - first:
+      213: -2877060689995329235
+    second: TilePallet_225
+  - first:
+      213: -828033801375443426
+    second: TilePallet_226
+  - first:
+      213: -4577859346236165385
+    second: TilePallet_227
+  - first:
+      213: 1890133726875529117
+    second: TilePallet_228
+  - first:
+      213: -6705889505584408087
+    second: TilePallet_229
+  - first:
+      213: -1544879022883171294
+    second: TilePallet_230
+  - first:
+      213: 609204060571767545
+    second: TilePallet_231
+  - first:
+      213: 5029936825963577789
+    second: TilePallet_232
+  - first:
+      213: -262892746519919162
+    second: TilePallet_233
+  - first:
+      213: 9180121022608711028
+    second: TilePallet_234
+  - first:
+      213: -1968232017840556982
+    second: TilePallet_235
+  - first:
+      213: 7178364625057698093
+    second: TilePallet_236
+  - first:
+      213: -3910798443981882655
+    second: TilePallet_237
+  - first:
+      213: 4819448550198308471
+    second: TilePallet_238
+  - first:
+      213: 3195448572159670741
+    second: TilePallet_239
+  - first:
+      213: -4411442132688845823
+    second: TilePallet_240
+  - first:
+      213: -573298584203484686
+    second: TilePallet_241
+  - first:
+      213: 7050588064256052308
+    second: TilePallet_242
+  - first:
+      213: -8405095128729586742
+    second: TilePallet_243
+  - first:
+      213: -6406391926526050546
+    second: TilePallet_244
+  - first:
+      213: 4073862829917753778
+    second: TilePallet_245
+  - first:
+      213: 140910716537695229
+    second: TilePallet_246
+  - first:
+      213: 7346420247198275806
+    second: TilePallet_247
+  - first:
+      213: -7964927334043041789
+    second: TilePallet_248
+  - first:
+      213: -2074088486348681569
+    second: TilePallet_249
+  - first:
+      213: 5544999147532910852
+    second: TilePallet_250
+  - first:
+      213: -9008933197321753699
+    second: TilePallet_251
+  - first:
+      213: 8421957609845334221
+    second: TilePallet_252
+  - first:
+      213: 9139031090654395050
+    second: TilePallet_253
+  - first:
+      213: 3063306323002049405
+    second: TilePallet_254
+  - first:
+      213: 3476592086773026861
+    second: TilePallet_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilePallet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d19b22714f2f96b0800000000000000
+      internalID: -5287455479374835241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df223eeec6220e210800000000000000
+      internalID: 1360124938725565181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de262afe0e97fc10800000000000000
+      internalID: 2087310739473051349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94e6088a39b71270800000000000000
+      internalID: 8221243305829524638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54b5d1758f1dae60800000000000000
+      internalID: 7975065173143958618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd6ecbfd448fb680800000000000000
+      internalID: -8737119281603514915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1ac96d9a52c17c0800000000000000
+      internalID: -4099360149433703941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e187cc23d97d4a250800000000000000
+      internalID: 5955121677452736542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0d048b143bf3d80800000000000000
+      internalID: -8268693295983439700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321a07caa62cf7890800000000000000
+      internalID: -7458028694486867677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf1d8830444e1bd0800000000000000
+      internalID: -2657611687484645448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72687a7ae2812d6c0800000000000000
+      internalID: -4120204120430246361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8285b1d2befa440800000000000000
+      internalID: 4949433094468282534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f791f5c30aef23e70800000000000000
+      internalID: 9093610561775540607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83c11f22a209b9d0800000000000000
+      internalID: -2758170401190067314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9222d67dbc59050800000000000000
+      internalID: 5806771420673485283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c868b3caeadfbf0800000000000000
+      internalID: -288882746325562312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d6ccc774be2c290800000000000000
+      internalID: -7871470506421228224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f265e10bf5d6250800000000000000
+      internalID: 5939508693599399808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775f4c4c3103ae1e0800000000000000
+      internalID: -2167867409161718409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e81df29cb26f4b0800000000000000
+      internalID: -5407086159521018216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24030ae97e06c5890800000000000000
+      internalID: -7467987534172114878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739f14d823cb07d20800000000000000
+      internalID: 3274323854402648375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd991813a298f3d0800000000000000
+      internalID: -3172624708300857893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilePallet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6443eaf98ef64680800000000000000
+      internalID: -8771043355684289425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
