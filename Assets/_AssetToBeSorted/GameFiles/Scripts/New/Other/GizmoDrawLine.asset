@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: GizmoDrawLine
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[{"hasDefaultValue":false,"defaultValue":{"r":1.0,"g":1.0,"b":1.0,"a":1.0,"$type":"UnityEngine.Color"},"_type":"UnityEngine.Color","key":"color","label":null,"summary":null,"hideLabel":false},{"hasDefaultValue":false,"defaultValue":{"x":0.0,"y":0.0,"$type":"UnityEngine.Vector2"},"_type":"UnityEngine.Vector2","key":"startDrawPoint","label":null,"summary":null,"hideLabel":false},{"hasDefaultValue":false,"defaultValue":{"x":0.0,"y":0.0,"$type":"UnityEngine.Vector2"},"_type":"UnityEngine.Vector2","key":"endDrawPoint","label":null,"summary":null,"hideLabel":false}],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-56.0,"y":75.0},"zoom":1.0,"elements":[{"chainable":false,"member":{"name":"color","parameterTypes":null,"targetType":"UnityEngine.Gizmos","targetTypeName":"UnityEngine.Gizmos","$version":"A"},"defaultValues":{"input":{"r":1.0,"g":1.0,"b":1.0,"a":1.0,"$type":"UnityEngine.Color"}},"position":{"x":-62.0,"y":-46.0},"guid":"ddc78b30-db30-481a-942e-e896d4bfac4a","$version":"A","$type":"Bolt.SetMember","$id":"12"},{"chainable":false,"member":{"name":"DrawLine","parameterTypes":["UnityEngine.Vector3","UnityEngine.Vector3"],"targetType":"UnityEngine.Gizmos","targetTypeName":"UnityEngine.Gizmos","$version":"A"},"defaultValues":{"%from":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"%to":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"}},"position":{"x":114.0,"y":17.0},"guid":"b16e4f35-1afb-4968-9ece-799d9142e8da","$version":"A","$type":"Bolt.InvokeMember","$id":"15"},{"coroutine":false,"defaultValues":{},"position":{"x":-257.0,"y":-137.0},"guid":"28e7c4a9-6ba5-4dc5-991c-6865db658d6e","$version":"A","$type":"Bolt.OnDrawGizmos","$id":"18"},{"defaultValues":{},"position":{"x":-323.0,"y":76.0},"guid":"9d4e599e-346a-44c5-8562-8e1c0c5e35ae","$version":"A","$type":"Bolt.GraphInput","$id":"20"},{"sourceUnit":{"$ref":"18"},"sourceKey":"trigger","destinationUnit":{"$ref":"12"},"destinationKey":"assign","guid":"995fdc51-f064-4500-8892-d6f8a2cc2c82","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"assigned","destinationUnit":{"$ref":"15"},"destinationKey":"enter","guid":"288e2a1d-2931-4549-beee-63dc09e572eb","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"20"},"sourceKey":"color","destinationUnit":{"$ref":"12"},"destinationKey":"input","guid":"dc433f40-5ce5-4eab-a0fe-77c295cc460b","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"20"},"sourceKey":"startDrawPoint","destinationUnit":{"$ref":"15"},"destinationKey":"%from","guid":"9e0b18c6-dca2-49fa-a612-efb52f11f9bf","$type":"Bolt.ValueConnection"},{"sourceUnit":{"$ref":"20"},"sourceKey":"endDrawPoint","destinationUnit":{"$ref":"15"},"destinationKey":"%to","guid":"8ccb3f71-765c-412e-91d3-d05f3b5f03ef","$type":"Bolt.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
